@@ -258,8 +258,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Your Name**
 - GitHub: [https://github.com/harishkryadav0506-cpu]
 - LinkedIn: [https://www.linkedin.com/in/harish-yadav-a78401357/]
-- Email: your.email@example.com
-
+- Email: harishkryadav0506@gmail.com
 ---
 
 ## 🙏 **Acknowledgments**
@@ -272,36 +271,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 **Support**
 
-If you encounter issues:
-1. Check [Issues](https://github.com/your-username/repo/issues) page
-2. Create new issue with error details
-3. Contact via email
-
----
-
-## 📸 **Screenshots**
-
-### Main Interface
-![Main Interface](screenshots/main_interface.png)
-
-### Verification Result
-![Verification](screenshots/verification_result.png)
-
-### Settings Panel
-![Settings](screenshots/settings_panel.png)
-
----
-
-## 🔗 **Useful Links**
-
-- [FDA API Documentation](https://open.fda.gov/apis/)
-- [RxNorm API Guide](https://rxnav.nlm.nih.gov/)
-- [Streamlit Documentation](https://docs.streamlit.io/)
-- [EasyOCR GitHub](https://github.com/JaidedAI/EasyOCR)
-
----
 
 **⭐ If this project helped you, please give it a star!**
 
